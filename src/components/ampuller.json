@@ -1,0 +1,60 @@
+[
+{
+    "id":1,
+    "title":"PHILIPS - Master TL-D 18/827 Floresan Ampul",
+    "price": 24.84,
+    "image": "https://cdn03.ciceksepeti.com/cicek/kcm73564009-1/L/philips-18840-2p-plc-ampul-gunisigi-5-adet-kcm73564009-1-eac6c60c5e7947e29b5e9194d8b627e0.jpg"
+},
+
+{
+    "id":2,
+    "title":"PHILIPS - Essential Led Ampul 13-100W 3000K E27",
+    "price": 29.83,
+    "image": "https://n11scdn.akamaized.net/a1/602_857/01/78/50/05/IMG-6181414056254390934.jpg"
+
+},
+
+{
+    "id":3,
+    "title":"PHILIPS - Led Klasik Filament Ampul 7-60W E27 2700K",
+    "price": 62.30,
+    "image": "https://productimages.hepsiburada.net/s/25/375/10126720860210.jpg"
+
+},
+
+{
+    "id":4,
+    "title":"CATA - Led Ampul E27 Beyaz 40W",
+    "price": 52.00,
+    "image": "https://st3.myideasoft.com/shop/ad/07/myassets/products/214/29012015032032.jpg?revision=1638865237"
+},
+
+{
+    "id":5,
+    "title":"CATA - CT-4242G Led Ampul 40W E27 Günışığı",
+    "price": 32.10,
+    "image": "https://productimages.hepsiburada.net/s/107/550/110000050289707.jpg/format:webp"
+
+},
+
+{
+    "id":6,
+    "title":"CATA - Led Ampul E27 15W Beyaz Par 30 Cob",
+    "price": 49.40,
+    "image": "https://www.starakim.com/-12985-12-B.jpg"
+},
+{
+    "id":7,
+    "title":"CATA - Led Ampul E27 Beyaz 40W",
+    "price": 52.00,
+    "image": "https://st3.myideasoft.com/shop/ad/07/myassets/products/214/29012015032032.jpg?revision=1638865237"
+},
+{
+    "id":8,
+    "title":"PHILIPS - Master TL-D 18/827 Floresan Ampul",
+    "price": 24.84,
+    "image": "https://cdn03.ciceksepeti.com/cicek/kcm73564009-1/L/philips-18840-2p-plc-ampul-gunisigi-5-adet-kcm73564009-1-eac6c60c5e7947e29b5e9194d8b627e0.jpg"
+}
+
+
+]
